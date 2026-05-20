@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://malcnorth59.github.io/civic-Autonomy/sitemap.xml
+Sitemap: https://malcnorth59.github.io/civic-autonomy/sitemap.xml
