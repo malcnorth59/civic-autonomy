@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/civic-autonomy/news/";
           },
-        },{id: "post-the-welfare-trap",
+        },{id: "post-taxing-billionaires",
+        
+          title: "Taxing Billionaires",
+        
+        description: "The friction between hyper-mobile digital capital and rigid geographical laws.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/civic-autonomy/blog/2026/billionaire-tax/";
+          
+        },
+      },{id: "post-the-welfare-trap",
         
           title: "The Welfare Trap",
         
