@@ -151,9 +151,16 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
 collections:
   books:
     output: true
+  manifesto:
+    output: true
+    permalink: /manifesto/:name/
   news:
     defaults:
       layout: post
